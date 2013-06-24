@@ -1,0 +1,8 @@
+SISCONLAB-cronograma: muestra todo el cronograma de actividades,
+desde el inicio hasta el fin del proyecto.
+En la etapa de gestiòn del proyecto, se deben coordinar el tiempo
+de las actividades con el alumno asignado del curso GPI.
+
+
+SISCONLAB-EDT.wbs: estructura elaborada con el programa wbspro
+se puede modificar con el tiempo de acuerdo a las necesidades
