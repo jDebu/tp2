@@ -3,4 +3,4 @@ tp2
 
 sislab
 
-probando cambios!!!
+Sistema de control de cursos academicos de laboratorios.
